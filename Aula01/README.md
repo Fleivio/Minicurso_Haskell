@@ -6,7 +6,7 @@
 - Imutabilidade
 - Puridade
 - Sintaxe do Haskell
-- Lazyness
+- Laziness
 - GHCup
 
 ## Links Úteis
@@ -21,5 +21,5 @@
 - ![Puridade (para os javascripteiros)](https://marcosampellegrini.com/haskell-purity)
 - ![Playlist de Haskell desde o básico](https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 - ![Tutorialzão de Haskell desde o básico](http://learnyouahaskell.com/)
-- ![Playlist sobre lazyness, implicações e otimizações (mais complicado)](https://www.youtube.com/watch?v=fSqE-HSh_NU&list=PLyzwHTVJlRc8620PjqbM0x435-6-Gi1Gu)
+- ![Playlist sobre laziness, implicações e otimizações (mais complicado)](https://www.youtube.com/watch?v=fSqE-HSh_NU&list=PLyzwHTVJlRc8620PjqbM0x435-6-Gi1Gu)
 - ![Canal das linguagens que ninguém usa](https://www.youtube.com/@code_report)
