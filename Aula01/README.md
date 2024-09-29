@@ -16,6 +16,7 @@
 
 ## Material de Apoio
 
+- ![Material (assustadoramente completo) em português (com videoaulas) da UFABC](https://haskell.pesquisa.ufabc.edu.br/haskell/)
 - ![Aplicação parcial](https://wiki.haskell.org/Partial_application)
 - ![Puridade (para os javascripteiros)](https://marcosampellegrini.com/haskell-purity)
 - ![Playlist de Haskell desde o básico](https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
