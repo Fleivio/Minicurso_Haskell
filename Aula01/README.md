@@ -9,6 +9,10 @@
 - Laziness
 - GHCup
 
+## Atividade 1
+
+[Link para o forms](https://forms.gle/wZwLqLKJVt1vayTw9)
+
 ## Links Úteis
 
 - [Onde eu baixo isso?](https://www.haskell.org/ghcup/)
