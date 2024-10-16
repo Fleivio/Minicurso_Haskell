@@ -49,10 +49,3 @@ instance Eq Shape where
 
 instance Ord Shape where 
   shape1 <= shape2 = area shape1 <= area shape2
-
-
-main :: IO ()
-main = do 
-  print "fasdfsad"
-  print "ifadfbsadf"
-  string <- readFile "filePath"
